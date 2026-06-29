@@ -1,0 +1,4 @@
+# ninja log v6
+2	4513	8010748602898564	D:/papercode/disandian/DATR-main/models/dino/ops/build/temp.win-amd64-cpython-310/Release/papercode/disandian/DATR-main/models/dino/ops/src/cpu/ms_deform_attn_cpu.obj	5d3deaf7755c6012
+40	9292	8010748603281786	D:/papercode/disandian/DATR-main/models/dino/ops/build/temp.win-amd64-cpython-310/Release/papercode/disandian/DATR-main/models/dino/ops/src/vision.obj	e1cac6824a24b1d5
+27	14741	8010748603149113	D:/papercode/disandian/DATR-main/models/dino/ops/build/temp.win-amd64-cpython-310/Release/papercode/disandian/DATR-main/models/dino/ops/src/cuda/ms_deform_attn_cuda.obj	a43ff390e2743473
